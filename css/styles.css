@@ -149,6 +149,11 @@ p {
 /* Footer Section */
 .footer-icon {
    margin: 20px 10px;
+   color: black;
+}
+
+.footer-icon:hover {
+   color: #FF4C68;
 }
 
 
@@ -158,7 +163,7 @@ p {
       transform: rotate(0);
    }
 
-   #title {
+   #title .container-fluid {
       text-align: center;
    }
 }
