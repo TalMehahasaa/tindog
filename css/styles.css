@@ -168,3 +168,9 @@ p {
       text-align: center;
    }
 }
+
+@media (max-width: 600px) {
+   .big-heading {
+      font-size: 3.2rem;
+   }
+}
