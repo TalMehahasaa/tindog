@@ -33,6 +33,7 @@ p {
 
 /* Sections */
 .colored-section {
+   margin: 0;
    background-color: #FF4C68;
    color: white;
 }
